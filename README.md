@@ -1,2 +1,3 @@
 # Netflix-clone-DIO
-Criação de um clone da home do netflix
+Desenvolvido para o curso de Html Web Developer da Digital Inovation One
+Criação de uma página baseado na home da netflix
